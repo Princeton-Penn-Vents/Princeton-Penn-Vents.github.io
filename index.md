@@ -1,7 +1,7 @@
 ## Princeton-Penn Ventilator project
 
-Main communication channel: [Slack](princeton-pennvents.slack.com)
-
+* Main communication channel: [Slack](princeton-pennvents.slack.com)
+* Chartstring: `23800-A0006-GU105`
 
 #### Google docs
 
@@ -14,8 +14,6 @@ Main communication channel: [Slack](princeton-pennvents.slack.com)
 * [Testing plan](https://www.overleaf.com/project/5e88690ae03b600001257df2)
 
 
-
 ### Editing this page
-
 
 You can use the [editor on GitHub](https://github.com/Princeton-Penn-Vents/Princeton-Penn-Vents.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
