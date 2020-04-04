@@ -3,8 +3,15 @@
 Main communication channel: [Slack](princeton-pennvents.slack.com)
 
 
+#### Google docs
+
+* [Orgchart](https://docs.google.com/presentation/d/1PWL4JUY7v97TIepXCfLhH-9JfaQyptegDhpvzKGCoSA/edit?usp=sharing)
 * [Princeton Test Part Inventory](https://docs.google.com/spreadsheets/d/13S18SEMJYfF9nv5weUMxtT3ABt-1Xu-hBY0MWIq9YxQ/edit?usp=sharing)
-* [Overleaf: plan](https://www.overleaf.com/project/5e88690ae03b600001257df2)
+
+#### Overleaf documents
+
+* [Proposal](https://www.overleaf.com/6684762272wszrnqcwfjpy)
+* [Testing plan](https://www.overleaf.com/project/5e88690ae03b600001257df2)
 
 
 
