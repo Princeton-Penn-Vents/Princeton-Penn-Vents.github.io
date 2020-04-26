@@ -14,6 +14,10 @@
 * [Testing plan](https://www.overleaf.com/project/5e88690ae03b600001257df2)
 
 
+### Other information
+
+* [Links to relevant papers](/research)
+
 ### Editing this page
 
 You can use the [editor on GitHub](https://github.com/Princeton-Penn-Vents/Princeton-Penn-Vents.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
