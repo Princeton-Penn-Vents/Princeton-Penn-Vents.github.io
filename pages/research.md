@@ -22,6 +22,8 @@ title: Relevant Research Papers and Links
   * [Inspiratory Effort Assessment by Esophageal Manometry Early Predicts Noninvasive Ventilation Outcome in de novo Respiratory Failure: A Pilot Study](https://www.atsjournals.org/doi/abs/10.1164/rccm.201912-2512OC) 
     * [[direct pdf link]](https://www.atsjournals.org/doi/pdf/10.1164/rccm.201912-2512OC)
 
+  * [A New Configuration for Helmet Continuous Positive Airway Pressure Allowing Tidal Volume Monitoring](https://www.atsjournals.org/doi/abs/10.1164/rccm.202003-0550LE)
+
 ## Real-time management
 
   * [Integrated EIT system for functional lung ventilation imaging](https://www.ncbi.nlm.nih.gov/pubmed/31345220)
