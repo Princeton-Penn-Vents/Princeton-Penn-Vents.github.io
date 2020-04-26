@@ -18,5 +18,11 @@ title: Relevant Research Papers and Links
   * [Inspiratory Effort Assessment by Esophageal Manometry Early Predicts Noninvasive Ventilation Outcome in de novo Respiratory Failure: A Pilot Study](https://www.atsjournals.org/doi/abs/10.1164/rccm.201912-2512OC) 
     * [[direct pdf link]](https://www.atsjournals.org/doi/pdf/10.1164/rccm.201912-2512OC)
 
+  * [Integrated EIT system for functional lung ventilation imaging](https://www.ncbi.nlm.nih.gov/pubmed/31345220)
+    * [[direct pdf link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659234/pdf/12938_2019_Article_701.pdf)
 
+  * [The Clinical Utilisation of Respiratory Elastance Software (CURE Soft): a bedside software for real-time respiratory mechanics monitoring and mechanical ventilation management.](https://www.ncbi.nlm.nih.gov/pubmed/25270094)
+    * [[direct pdf link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4192763/pdf/12938_2014_Article_875.pdf)
 
+  * [Tracking respiratory mechanics around natural breathing rates via variable ventilation](https://www.ncbi.nlm.nih.gov/pubmed/32317734)
+    * [[direct pdf link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7174375/pdf/41598_2020_Article_63663.pdf)
