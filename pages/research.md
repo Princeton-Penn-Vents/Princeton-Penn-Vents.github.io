@@ -34,3 +34,9 @@ title: Relevant Research Papers and Links
 
   * [Tracking respiratory mechanics around natural breathing rates via variable ventilation](https://www.ncbi.nlm.nih.gov/pubmed/32317734)
     * [[direct pdf link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7174375/pdf/41598_2020_Article_63663.pdf)
+
+## Other
+
+  * [A Physiological Torso Model for RealisticBreathing Simulation](http://www.cs.uu.nl/groups/MG/multimedia/publications/art/3dph09.pdf)
+
+
