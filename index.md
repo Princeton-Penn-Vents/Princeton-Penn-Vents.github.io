@@ -17,6 +17,7 @@
 ### Other information
 
 * [Links to relevant papers](/research)
+* [Human subjects research training](https://about.citiprogram.org/en/homepage/) - Login through Princeton credentials, and navigate to the "IRB - Biomedical Research Investigators" course
 
 ### Editing this page
 
