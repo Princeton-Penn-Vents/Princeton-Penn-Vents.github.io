@@ -24,6 +24,10 @@ title: Relevant Research Papers and Links
 
   * [A New Configuration for Helmet Continuous Positive Airway Pressure Allowing Tidal Volume Monitoring](https://www.atsjournals.org/doi/abs/10.1164/rccm.202003-0550LE)
 
+  * [“Less is More” in mechanical ventilation](https://link.springer.com/article/10.1007/s00134-020-05981-z)
+
+  * [Management of COVID-19 Respiratory Distress](https://jamanetwork.com/journals/jama/fullarticle/2765302)
+
 ## Real-time management
 
   * [Integrated EIT system for functional lung ventilation imaging](https://www.ncbi.nlm.nih.gov/pubmed/31345220)
